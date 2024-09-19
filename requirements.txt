@@ -1,0 +1,6 @@
+pyyaml
+bs4
+webdriver_manager
+selenium
+packaging
+colorama
